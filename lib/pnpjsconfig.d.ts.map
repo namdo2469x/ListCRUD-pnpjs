@@ -1,0 +1,1 @@
+{"version":3,"file":"pnpjsconfig.d.ts","sourceRoot":"","sources":["../src/pnpjsconfig.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAG5D,OAAO,EAAQ,IAAI,EAAQ,MAAM,SAAS,CAAC;AAE3C,OAAO,cAAc,CAAC;AACtB,OAAO,eAAe,CAAC;AACvB,OAAO,kBAAkB,CAAC;AAC1B,OAAO,oBAAoB,CAAC;AAC5B,OAAO,eAAe,CAAC;AACvB,OAAO,uBAAuB,CAAC;AAO/B,eAAO,MAAM,KAAK,aAAc,cAAc,KAAG,IAOhD,CAAC"}

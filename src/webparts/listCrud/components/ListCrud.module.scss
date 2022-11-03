@@ -1,0 +1,84 @@
+.root {
+  border-radius: 10px;
+  padding: 5px;
+  border: 1px solid rgba(204, 204, 204, 0.8);
+
+  .containerHeader{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .container {
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+
+    th{
+      border: 1px solid #ccc;
+    }
+    
+    
+    td{
+      width: 150px;
+      text-align: center;
+      border-left: 1px solid #ccc;
+      border-right: 1px solid #ccc;
+    }
+
+    table{
+      border: 1px solid #ccc;
+    }
+
+    .Gryffindor {
+      background: rgb(255, 118, 6);
+    }
+
+    .Slytherin {
+      background: rgb(0, 255, 42);
+      color: rgb(0, 0, 0);
+    }
+
+    .Ravenclaw {
+      background: rgb(0, 54, 204);
+      color: aliceblue;
+    }
+
+    .Hufflepuff {
+      background: rgb(234, 250, 7);
+      color: rgb(1, 4, 7);
+    }
+  }
+
+  .header {
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+    label {
+      font-weight: bold;
+    }
+
+    input {
+      width: 300px;
+    }
+  }
+
+  button {
+    margin: 0 20px;
+    border-radius: 5px;
+    border: 0.5px solid rgba(0, 0, 0, 0.316);
+    background: #00ffea;
+    padding: 2px 6px;
+    &:hover{
+      cursor: pointer;
+      background: #f7ff00;
+    }
+  }
+
+  h2{
+    text-align: center;
+  }
+}

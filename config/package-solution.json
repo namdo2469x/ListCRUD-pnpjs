@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "list-crud-pnp-client-side-solution",
+    "id": "f68982d9-be85-450c-8940-0d766b0fe3a0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "list-crud-pnp description"
+      },
+      "longDescription": {
+        "default": "list-crud-pnp description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "list-crud-pnp Feature",
+        "description": "The feature that activates elements of the list-crud-pnp solution.",
+        "id": "990b8630-82a8-4527-b841-b87b505d43e8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/list-crud-pnp.sppkg"
+  }
+}
